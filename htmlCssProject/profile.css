@@ -76,3 +76,11 @@ p {
 	border-right: 0;
 	border-color: rgba(0, 0, 0, 0.66);
 }
+.grayscale {
+	filter: grayscale(100%);
+}
+.bkgdimg {
+	background-image: url(./Untitled\ design.png);
+	border-right: 0;
+	border-color: rgba(0, 0, 0, 0.66);
+}
